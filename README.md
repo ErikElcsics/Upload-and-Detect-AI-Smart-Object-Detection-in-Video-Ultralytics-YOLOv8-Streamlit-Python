@@ -60,7 +60,7 @@ This project is licensed under the MIT License.
 
 ![image](https://github.com/user-attachments/assets/4a923e6c-f92a-4497-878c-7759565558d3)
 
-Couple more examples of a Processed Detected Videos.
+Few more examples of a Processed Detected Videos.
 
 ![image](https://github.com/user-attachments/assets/277e5dd7-2383-436f-b3c9-ab12903ff899)
 
