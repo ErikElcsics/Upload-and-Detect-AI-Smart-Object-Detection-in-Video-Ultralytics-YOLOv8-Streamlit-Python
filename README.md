@@ -3,8 +3,10 @@
 Detect objects in your uploaded videos using YOLOv8 and Streamlit. This app allows users to process videos and identify objects in real-time. You can upload MP4, AVI, MOV, MPEG4 videos.
 
 # Installation Instructions
+
 1. Clone the Repository
 git clone https://github.com/ErikElcsics/Upload-and-Detect-AI-Smart-Object-Detection-in-Video-Ultralytics-YOLOv8-Streamlit-Python.git
+
 cd your-repo
 
 2. Install Dependencies
