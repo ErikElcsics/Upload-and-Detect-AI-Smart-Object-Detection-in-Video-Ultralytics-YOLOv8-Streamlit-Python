@@ -5,9 +5,9 @@ Detect objects in your uploaded videos using YOLOv8 and Streamlit. This app allo
 # Installation Instructions
 
 1. Clone the Repository
-git clone https://github.com/ErikElcsics/Upload-and-Detect-AI-Smart-Object-Detection-in-Video-Ultralytics-YOLOv8-Streamlit-Python.git
 
-cd your-repo
+- git clone https://github.com/ErikElcsics/Upload-and-Detect-AI-Smart-Object-Detection-in-Video-Ultralytics-YOLOv8-Streamlit-Python.git
+- cd your-repo
 
 2. Install Dependencies
 Make sure you have Python 3.8+ installed. Then, install the required libraries:
