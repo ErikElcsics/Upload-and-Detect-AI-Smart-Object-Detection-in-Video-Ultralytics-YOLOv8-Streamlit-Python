@@ -18,10 +18,9 @@ Make sure you have Python 3.8+ installed. Then, install the required libraries:
 - Torch 
 
 3. Install YOLOv8 Weights
-Download the YOLOv8 model weights and place them in the Yolo-Weights folder:
-
-mkdir -p Yolo-Weights
-wget -P Yolo-Weights https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt
+- Download the YOLOv8 model weights and place them in the Yolo-Weights folder:
+- mkdir -p Yolo-Weights
+- wget -P Yolo-Weights https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt
 
 # How to Use app
 
